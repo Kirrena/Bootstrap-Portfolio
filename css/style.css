@@ -68,3 +68,23 @@ p {
     color: white;
     text-align: center;
   }
+
+  .cardContainer {
+    margin-bottom: 15px;
+  }
+  .center-position {
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+
+  .card-body {
+    background-color: var(--Cream);
+  }
+
+  .card-size {
+    height: 300px;
+  }
+
+  .surf-size {
+    height: 500px;
+  }
