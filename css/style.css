@@ -78,3 +78,13 @@ p {
   .surf-size {
     height: 500px;
   }
+
+  .sectionHeading {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .text {
+    margin-right: 40px;
+  }
