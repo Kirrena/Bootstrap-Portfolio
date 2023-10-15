@@ -79,12 +79,12 @@ p {
     height: 500px;
   }
 
-  .sectionHeading {
+  .sectionHeading, .text {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
   }
 
   .text {
-    margin-right: 40px;
+    margin-right: auto;
   }
