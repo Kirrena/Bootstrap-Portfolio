@@ -1,6 +1,6 @@
 :root {
     --lightblue: rgb(23, 166, 232);
-    --Cream: rgb(207, 183, 111);
+    --Cream: rgb(245, 211, 183);
 }
 
 h1, h2, h3 , h4, h5, h6 {
@@ -49,24 +49,14 @@ p {
     color: white !important;
   }
 
-  .codeBackground {
-    height: calc(100vh - 25px);
-    background-image: url(../images/code_1_optimized.jpg);
-    background-size: cover;
+  .meBackground {
+    height: calc(70vh - 25px);
+    background-image: url(../images/me.jpg);
+    background-size: contain;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
-  .jumboCopy {
-    width: 70%;
-    min-width: 500px;
-    max-width: 700px;
-    background-color: var(--lightblue);
-    opacity: 0.9;
-    color: white;
-    text-align: center;
   }
 
   .cardContainer {
